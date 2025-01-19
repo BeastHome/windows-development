@@ -2,7 +2,7 @@
 # Python program to mimic doing multiple dig commands in bash and providing the information parsed in an easy to read format.
 
 # Written by David M Harris on 16 March 2024
-# Last modified 26 March 2024
+# Last modified 17 Jan 2025
 # dave@harris-services.com
 
 ## !!! Build the project with pyinstaller pydig.spec to avoid losing the whois data setup !!!
